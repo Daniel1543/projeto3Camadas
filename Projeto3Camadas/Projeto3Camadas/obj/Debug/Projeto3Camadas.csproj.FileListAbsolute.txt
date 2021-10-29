@@ -1,0 +1,9 @@
+H:\projetoEmCamadas\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.csprojAssemblyReference.cache
+H:\projetoEmCamadas\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.Properties.Resources.resources
+H:\projetoEmCamadas\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.csproj.GenerateResource.cache
+H:\projetoEmCamadas\Projeto3Camadas\Projeto3Camadas\bin\Debug\Projeto3Camadas.exe.config
+H:\projetoEmCamadas\Projeto3Camadas\Projeto3Camadas\bin\Debug\Projeto3Camadas.exe
+H:\projetoEmCamadas\Projeto3Camadas\Projeto3Camadas\bin\Debug\Projeto3Camadas.pdb
+H:\projetoEmCamadas\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.exe
+H:\projetoEmCamadas\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.pdb
+H:\projetoEmCamadas\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.Ui.Frm_Medicamentos.resources
