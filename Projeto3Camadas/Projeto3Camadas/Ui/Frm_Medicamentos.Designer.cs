@@ -131,6 +131,7 @@
             this.dgvMedicamentos.Name = "dgvMedicamentos";
             this.dgvMedicamentos.Size = new System.Drawing.Size(595, 237);
             this.dgvMedicamentos.TabIndex = 9;
+            this.dgvMedicamentos.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvMedicamentos_CellContentClick);
             // 
             // Frm_Medicamentos
             // 
@@ -149,6 +150,7 @@
             this.Controls.Add(this.lblId);
             this.Name = "Frm_Medicamentos";
             this.Text = "Frm_Medicamentos";
+            this.Load += new System.EventHandler(this.Frm_Medicamentos_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvMedicamentos)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
