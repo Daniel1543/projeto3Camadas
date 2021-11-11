@@ -29,3 +29,4 @@ H:\projeto3Camadas\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.csp
 H:\projeto3Camadas\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.csproj.CopyComplete
 H:\projeto3Camadas\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.exe
 H:\projeto3Camadas\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.pdb
+H:\projeto3Camadas\Projeto3Camadas\Projeto3Camadas\obj\Debug\Projeto3Camadas.Ui.Frm_Login.resources
