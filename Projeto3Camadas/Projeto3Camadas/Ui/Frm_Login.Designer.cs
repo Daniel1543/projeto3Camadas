@@ -62,7 +62,6 @@
             // 
             this.txtSenha.Location = new System.Drawing.Point(365, 131);
             this.txtSenha.Name = "txtSenha";
-            this.txtSenha.PasswordChar = '*';
             this.txtSenha.Size = new System.Drawing.Size(151, 20);
             this.txtSenha.TabIndex = 2;
             // 
@@ -70,6 +69,7 @@
             // 
             this.txtEmail.Location = new System.Drawing.Point(365, 196);
             this.txtEmail.Name = "txtEmail";
+            this.txtEmail.PasswordChar = '*';
             this.txtEmail.Size = new System.Drawing.Size(151, 20);
             this.txtEmail.TabIndex = 3;
             // 
@@ -83,6 +83,7 @@
             this.lnkLabEsqueceu.TabIndex = 5;
             this.lnkLabEsqueceu.TabStop = true;
             this.lnkLabEsqueceu.Text = "Esqueceu sua senha?";
+            this.lnkLabEsqueceu.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.lnkLabEsqueceu_LinkClicked);
             // 
             // btnEntrar
             // 
